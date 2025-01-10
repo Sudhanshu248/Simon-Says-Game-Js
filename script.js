@@ -79,4 +79,6 @@ function reset(){
     gameSeq = [];
     userSeq = [];
     level = 0;
+    body.style.background-color = "#FB8DA0";
+    body.style.color = "white";
 }
